@@ -11,5 +11,3 @@
     ``[<solution-title>](<link-to-solution>) `<solution-type>(web | app | api)` ``
 
         <description-of-your-solution(2-5 lines)>
-
-        author: <link-to-your-github-profile>
