@@ -1,4 +1,4 @@
-**[About](about.md) | [Add your solution](add_your_solution.md) | [Web Solutions]() | [App solutions]() | [API solutions]() | [Other solutions]()**
+**[About](about.md) | [Add your solution](add_your_solution.md) | [Web Solutions](#web-solutions) | [App solutions](#app-solutions) | [API solutions](#api-solutions) | [Other solutions](#other-solutions)**
 
 ## COVID'19 Solutions :wrench: :hammer:
 
@@ -11,9 +11,14 @@
      It also shows information like, state wise count, timeline of the pandemic and much more.
      
      [project link](https://github.com/covid19india/covid19india-react)
-
+     
+----
 ### App Solutions
 
+----
 ### API Solutions
 
+----
 ### Other Solutions
+
+----
