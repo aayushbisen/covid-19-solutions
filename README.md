@@ -13,15 +13,32 @@ Below is the list of solutions(Website, App, API, Other) made by developers for 
      
      [project link](https://github.com/covid19india/covid19india-react)
      
++ **[covidAPI](https://coronavirus-19-api.herokuapp.com/)**
+    
+     Dashboard for live information about COVID-19.
+     
+     [project link](https://github.com/javieraviles/covidAPI)
+     
 ----
 ### App Solutions
 
 ----
 ### API Solutions
 
++ **[covidAPI](https://github.com/javieraviles/covidAPI)**
+     
+     Coronavirus API for Current cases by country COVID-19. 
+
 ----
 ### Other Solutions
 
++ **[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)**
+ 
+    A data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for
+    Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University
+    Applied Physics Lab (JHU APL).
+    
+
 ----
 
-Stay home and Stay safe, Thanks.
+<p align="center"> <i>Stay home and Stay safe, Thanks.</i> </p>
