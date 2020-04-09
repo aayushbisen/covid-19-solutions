@@ -22,6 +22,13 @@ Below is the list of solutions(Website, App, API, Other) made by developers for 
 ----
 ### App Solutions
 
++ **[Aarogya Setu](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu)**
+
+    Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the
+    people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government
+    of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app
+    regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
+
 ----
 ### API Solutions
 
