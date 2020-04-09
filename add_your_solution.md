@@ -10,10 +10,10 @@
 
 - In that list item **add your solution** in the following format:
 
-   `` `**[solution title](solution link)**`
+   `**[solution title](solution link)**`
         
-        `<about the project (2-3 lines)>`
-         <project link(optional)> ``
+        <about the project (2-3 lines)>
+        <project link(optional)>
         
 - After adding your solution, commit your changes.
  
