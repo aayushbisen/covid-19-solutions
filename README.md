@@ -2,6 +2,7 @@
 
 ## COVID'19 Solutions :wrench: :hammer:
 
+Below is the list of solutions(Website, App, API, Other) made by developers for helping people in some way during the COVID'19 outbreak. 
 
 ### Web Solutions
 
