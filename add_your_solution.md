@@ -8,13 +8,12 @@
 
 - To **add your solution** in a section, create a new list item just above the topmost list item of that section.
 
-- In that section **add your solution** in the following format:
+- In that list item **add your solution** in the following format:
 
-    `**[solution title](solution link)**`
-    
-        <about the project (2-3 lines)>
-     
-        <project link(optional)>
+   `` `**[solution title](solution link)**`
+        
+        `<about the project (2-3 lines)>`
+         <project link(optional)> ``
         
 - After adding your solution, commit your changes.
  
