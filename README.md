@@ -23,3 +23,5 @@ Below is the list of solutions(Website, App, API, Other) made by developers for 
 ### Other Solutions
 
 ----
+
+Stay home and Stay safe, Thanks.
