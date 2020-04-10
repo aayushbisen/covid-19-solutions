@@ -1,10 +1,10 @@
 **[About](about.md) | [Add your solution](add_your_solution.md) | [Web Solutions](#web-solutions) | [App solutions](#app-solutions) | [API solutions](#api-solutions) | [Other solutions](#other-solutions)**
 
-## COVID'19 Solutions :wrench: :hammer:
+## COVID'19 Solutions :page_facing_up:
 
 Below is the list of software solutions(Website, App, API, Other) made by developers for helping people in some way during the COVID'19 outbreak. 
 
-### Web Solutions
+### Web Solutions :earth_asia:
 
 + **[covid19india](https://www.covid19india.org/)**
     
@@ -20,7 +20,7 @@ Below is the list of software solutions(Website, App, API, Other) made by develo
      [project link](https://github.com/javieraviles/covidAPI)
      
 ----
-### App Solutions
+### App Solutions :iphone:
 
 + **[Aarogya Setu](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu)**
 
@@ -30,14 +30,14 @@ Below is the list of software solutions(Website, App, API, Other) made by develo
     regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
 
 ----
-### API Solutions
+### API Solutions :bar_chart:
 
 + **[covidAPI](https://github.com/javieraviles/covidAPI)**
      
      Coronavirus API for Current cases by country COVID-19. 
 
 ----
-### Other Solutions
+### Other Solutions :wrench:
 
 + **[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)**
  
