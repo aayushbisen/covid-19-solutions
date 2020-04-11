@@ -18,7 +18,10 @@ Below is the list of software solutions(Website, App, API, Other) made by develo
      Dashboard for live information about COVID-19.
      
      [project link](https://github.com/javieraviles/covidAPI)
-     
+
++ **[WHO Coronavirus Dashboard](https://who.sprinklr.com/)**
+
+     This interactive dashboard/map provides the latest global numbers and numbers by country of COVID-19 cases on a daily basis.
 ----
 ### App Solutions :iphone:
 
