@@ -22,15 +22,57 @@ Below is the list of software solutions(Website, App, API, Other) made by develo
 + **[WHO Coronavirus Dashboard](https://who.sprinklr.com/)**
 
      This interactive dashboard/map provides the latest global numbers and numbers by country of COVID-19 cases on a daily basis.
+     
++ **[Worldometer](https://www.worldometers.info/coronavirus/)**
+    
+     Dashboard for COVID-19 cases all over the world.
 ----
 ### App Solutions :iphone:
 
-+ **[Aarogya Setu](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu)**
++ **[Aarogya Setu](https://www.mygov.in/aarogya-setu-app/)**
 
     Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the
     people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government
     of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app
     regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
+    
++ **[COVIDSafe](https://www.health.gov.au/resources/apps-and-tools/covidsafe-app)**
+
+    COVIDSafe app has been developed by the Australian Government Department of Health to help keep the community safe from 
+    coronavirus (COVID-19). Together, let’s help stop the spread and keep ourselves and each other healthy.
+
++ **[HaMagen](https://govextra.gov.il/ministry-of-health/hamagen-app/download-en/)**
+    
+    HaMagen is an app that is endorsed by the Ministry of Health(Israel). It can tell you have been in the presence of anyone 
+    who has been diagnosed with coronavirus. The app cross-checks the GPS history of your mobile phone with historical 
+    geographic data of patients from the Ministry of Health.
+    
++ **[MyTrace](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mytrace&hl=en)**
+
+    MyTrace is a mobile application (app) by Government of Malaysia to help the health authority to manage the COVID-19 
+    outbreaks. MyTrace adopts a community-driven approach where participating devices exchange proximity information whenever 
+    an app detects another nearby device with MyTrace installed. The app enables identification of people who have been in 
+    close proximity to an infected person.
+
++ **[StopKorona!](https://stop.koronavirus.gov.mk/en)**
+
+    StopKorona! is a mobile app developed based on the best global practices for the prevention and control of the 
+    Coronavirus. The app is intended to trace exposure with potentially infected persons, by the detection of the distance 
+    between mobile devices/applications by using Bluetooth technology. Developed by Ministry of Information Society and 
+    Administration, North Macedonia
+
++ **[Smittestopp](https://helsenorge.no/coronavirus/smittestopp)**
+    
+    Smittestopp is an app that will help the health authorities to limit the transmission of coronavirus. 
+    Anonymised data about movement patterns in society from the app are used to develop effective 
+    infection control measures.
+    
++ **[TraceTogether](https://www.tracetogether.gov.sg/)**
+    
+    TraceTogether supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact 
+    tracing. TraceTogether uses Bluetooth signals to determine if you are near another TraceTogether user. Your Bluetooth
+    proximity data is encrypted and stored only on your phone. The Ministry of Health (MOH) will seek your consent to 
+    upload the data, if it’s needed for contact tracing. 
 
 ----
 ### API Solutions :bar_chart:
