@@ -1,4 +1,4 @@
-**[About](about.md) | [Add your solution](add_your_solution.md) | [Web Solutions](#web-solutions) | [App solutions](#app-solutions) | [API solutions](#api-solutions) | [Other solutions](#other-solutions)**
+**[About](about.md) | [Add your solution](add_your_solution.md) | [Web Solutions](#web-solutions-earth_asia) | [App solutions](#app-solutions-iphone) | [API solutions](#api-solutions-bar_chart) | [Other solutions](#other-solutions-wrench)**
 
 ## COVID'19 Solutions :page_facing_up:
 
