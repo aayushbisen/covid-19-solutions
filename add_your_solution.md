@@ -21,4 +21,4 @@
  
 - We will then merge your pull request, if you have followed the above steps correctly.
 
-- Thanks, stay home and stay safe.
+- Thanks, stay 🏠 and stay safe.
