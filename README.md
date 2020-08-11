@@ -30,6 +30,9 @@ Below is the list of software solutions(Website, App, API, Other) made by develo
 + **[Covid19 Cases Tracker](https://mycovidtracker.netlify.app/)**
     
      Dashboard for COVID-19 cases globally and cases per country.
+     
+     [project link](https://github.com/pixan198/covid19_tracker)
+     
 ----
 ### App Solutions :iphone:
 
