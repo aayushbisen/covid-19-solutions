@@ -26,6 +26,13 @@ Below is the list of software solutions(Website, App, API, Other) made by develo
 + **[Worldometer](https://www.worldometers.info/coronavirus/)**
     
      Dashboard for COVID-19 cases all over the world.
+     
++ **[Covid19 Cases Tracker](https://mycovidtracker.netlify.app/)**
+    
+     Dashboard for COVID-19 cases globally and cases per country.
+     
+     [project link](https://github.com/pixan198/covid19_tracker)
+     
 ----
 ### App Solutions :iphone:
 
@@ -79,7 +86,12 @@ Below is the list of software solutions(Website, App, API, Other) made by develo
 
 + **[covidAPI](https://github.com/javieraviles/covidAPI)**
      
-     Coronavirus API for Current cases by country COVID-19. 
+     Coronavirus API for Current cases by country COVID-19.
+     
++ **[Covid-19 API](https://github.com/mathdroid/covid-19-api)**
+     
+     Coronavirus API for Infected, Recovered and Death cases Globally and per country.
+     This API is serving data from John Hopkins University CSSE as a JSON API.
 
 ----
 ### Other Solutions :wrench:
