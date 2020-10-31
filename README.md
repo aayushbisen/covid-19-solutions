@@ -92,6 +92,10 @@ Below is the list of software solutions(Website, App, API, Other) made by develo
      
      Coronavirus API for Infected, Recovered and Death cases Globally and per country.
      This API is serving data from John Hopkins University CSSE as a JSON API.
+     
++ **[Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/)**
+     
+     API Collections to Help in the COVID-19 Fight.
 
 ----
 ### Other Solutions :wrench:
